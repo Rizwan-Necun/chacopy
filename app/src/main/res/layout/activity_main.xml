@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data class="MainActivityDataBinding">
+        <variable
+            name="viewModel"
+            type="com.example.chaquopy.MainActivityViewModel" />
+
+    </data>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+<androidx.core.widget.NestedScrollView
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<LinearLayout
+android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+<!--<HorizontalScrollView-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    >-->
+<LinearLayout
+    android:layout_marginTop="40dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/image_one"
+        android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+        android:src="@drawable/sample_image_one"
+     android:layout_weight="1"
+android:scaleType="fitXY"
+
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+
+       />
+    <ImageView
+
+        android:id="@+id/image_two"
+         android:layout_marginStart="20dp"
+        android:src="@drawable/sample_image_two"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:contentDescription="content description"
+        android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+        />
+    <ImageView
+        android:id="@+id/image_three"
+        android:layout_marginStart="20dp"
+        android:src="@drawable/sample_image_three"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+        />
+    <ImageView
+        android:id="@+id/image_four"
+        android:layout_marginStart="20dp"
+        android:src="@drawable/sample_image_four"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+        />
+</LinearLayout>
+<!--</HorizontalScrollView>-->
+<!--    <HorizontalScrollView-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        >-->
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/image_five"
+                android:src="@drawable/sample_image_five"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+                />
+            <ImageView
+                android:id="@+id/image_six"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/sample_image_six"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+                />
+            <ImageView
+                android:id="@+id/image_seven"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/sample_image_seven"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+                />
+            <ImageView
+                android:id="@+id/image_eight"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/sample_image_eight"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:layout_width="0dp"
+                android:layout_height="100dp"
+                android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+                />
+        </LinearLayout>
+<!--    </HorizontalScrollView>-->
+
+
+    <Button
+        android:id="@+id/select_image_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+       android:layout_gravity="center"
+        android:text="Choose an Image"
+        android:onClick="@{(view) -> viewModel.onresorceClick(view.getId())}"
+        />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/image_nine"
+        android:layout_marginTop="35dp"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/ic_launcher_background"/>
+</LinearLayout>
+</androidx.core.widget.NestedScrollView>
+    </LinearLayout>
+</layout>

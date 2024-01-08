@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable sample_image_eight
+drawable sample_image_five
+drawable sample_image_four
+drawable sample_image_one
+drawable sample_image_seven
+drawable sample_image_six
+drawable sample_image_three
+drawable sample_image_two
+id image_eight
+id image_five
+id image_four
+id image_nine
+id image_one
+id image_seven
+id image_six
+id image_three
+id image_two
+id select_image_button
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Python1
+style Theme.Python1
+xml backup_rules
+xml data_extraction_rules

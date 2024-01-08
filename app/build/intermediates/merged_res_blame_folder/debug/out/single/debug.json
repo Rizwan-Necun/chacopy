@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_eight.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_eight.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_one.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_one.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_two.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_two.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_four.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_four.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_three.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_three.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_seven.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_seven.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_five.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_five.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.chaquopy.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/drawable_sample_image_six.jpeg.flat",
+        "source": "com.example.chaquopy.app-main-55:/drawable/sample_image_six.jpeg"
+    },
+    {
+        "merged": "com.example.chaquopy.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.chaquopy.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
